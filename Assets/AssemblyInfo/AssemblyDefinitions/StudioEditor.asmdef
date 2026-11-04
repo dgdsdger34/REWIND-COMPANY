@@ -1,0 +1,19 @@
+{
+    "name": "StudioEditor",
+    "references": [
+        "StudioAssembly"
+    ],
+    "optionalUnityReferences": [
+        "UnityEditor"
+    ],
+    "includeBuildTargetGroup": false,
+    "defineConstraints": [],
+    "autoReferenced": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "noEngineReferences": true,
+    "publishDownstream": false,
+    "linkReferences": [],
+    "noEngineLinkReferences": true,
+    "noDependencies": false
+}

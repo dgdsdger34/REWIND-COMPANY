@@ -1,0 +1,24 @@
+{
+    "name": "StudioAssembly",
+    "references": [],
+    "optionalUnityReferences": [
+        "Graphic",
+        "Physics",
+        "InputSystem",
+        "Unit",
+        "UI",
+        "UnityEngine.TestRunner",
+        "Audio",
+        "UnityAnalytics"
+    ],
+    "includeBuildTargetGroup": true,
+    "defineConstraints": [],
+    "autoReferenced": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "noEngineReferences": false,
+    "publishDownstream": true,
+    "linkReferences": [],
+    "noEngineLinkReferences": false,
+    "noDependencies": false
+}

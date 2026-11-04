@@ -1,0 +1,24 @@
+{
+    "name": "WorldAssembly",
+    "references": [
+        "StudioAssembly"
+    ],
+    "optionalUnityReferences": [
+        "Graphic",
+        "Physics",
+        "InputSystem",
+        "Unit",
+        "UI",
+        "Audio"
+    ],
+    "includeBuildTargetGroup": true,
+    "defineConstraints": [],
+    "autoReferenced": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "noEngineReferences": false,
+    "publishDownstream": true,
+    "linkReferences": [],
+    "noEngineLinkReferences": false,
+    "noDependencies": false
+}
